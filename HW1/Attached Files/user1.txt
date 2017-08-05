@@ -1,0 +1,6 @@
+First Name: Mark
+Last Name : Ceaser
+User ID: user1
+Picture: https://upload.wikimedia.org/wikipedia/commons/5/5f/Standardchinchilla.jpg
+Website: http://www.cnn.com
+Website Description: Wolf Blitzer has the best name!
