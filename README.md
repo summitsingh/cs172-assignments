@@ -1,4 +1,4 @@
-# cs171-assignments
+# cs172-assignments
 My C++ Assignments and Labs from Computer Programming II (CS 172) Class
 
 All code was written in C++ on Microsoft Visual Studio myself
